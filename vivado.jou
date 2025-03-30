@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Mar  1 19:48:26 2025
+# Process ID: 1296
+# Current directory: C:/Users/KIIT/Desktop/VLSI/VIVADO PROJECTS/4 bit multiplier
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10664 C:\Users\KIIT\Desktop\VLSI\VIVADO PROJECTS\4 bit multiplier\4 bit multiplier.xpr
+# Log file: C:/Users/KIIT/Desktop/VLSI/VIVADO PROJECTS/4 bit multiplier/vivado.log
+# Journal file: C:/Users/KIIT/Desktop/VLSI/VIVADO PROJECTS/4 bit multiplier\vivado.jou
+#-----------------------------------------------------------
+sstart_guioopen_project {C:/Users/KIIT/Desktop/VLSI/VIVADO PROJECTS/4 bit multiplier/4 bit multiplier.xpr}update_compile_order -fileset sources_1
+
+launch_simulation
+source Multiplier.tcl
+close_sim
